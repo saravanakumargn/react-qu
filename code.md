@@ -10,6 +10,4 @@ const moviesList = {
   ]
 }
 ```
-
-![Screenshot 2022-05-26 at 8 08 44 AM](https://user-images.githubusercontent.com/1115851/170404284-5e8261cd-488f-45de-9c7f-c23f81aa2918.png)
-
+![Screenshot 2022-05-26 at 5 51 13 PM](https://user-images.githubusercontent.com/1115851/170486704-03e0c590-86ec-49fa-a694-ddbab5521e1d.png)
