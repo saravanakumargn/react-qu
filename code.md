@@ -1,15 +1,3 @@
+![Screenshot 2022-06-01 at 7 37 41 PM](https://user-images.githubusercontent.com/1115851/171424349-21d0f9e8-5ced-4a73-a820-95b6a8bb3cd6.png)
 
-``` javascript
-const moviesList = {
-  "title": "Movies Collection",
-  "movies": [
-    { "id": 1, "title": "Star Wars" },
-    { "id": 2, "title": "Back to the Future" },
-    { "id": 3, "title": "The Matrix" },
-    { "id": 4, "title": "Inception" }
-  ]
-}
-```
-![Screenshot 2022-06-01 at 7 16 12 PM](https://user-images.githubusercontent.com/1115851/171419714-80fa64e8-b6d2-4a09-b333-7f421a0dc586.png)
-
-
+![Screenshot 2022-06-01 at 7 38 25 PM](https://user-images.githubusercontent.com/1115851/171424508-0d556cf5-65c3-4061-ac17-2b8ccec80c1a.png)
